@@ -115,11 +115,6 @@ Você pode livremente fazer fork do repositório público do VChatX para estudar
 
 ## 🏆 Reconhecimentos
 
-VChatX é construído com base em tecnologias modernas e integra-se perfeitamente com:
-- **Evolution API** para conectividade WhatsApp
-- **n8n** para automação de fluxos
-- **OpenAI** para inteligência artificial avançada
-
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
